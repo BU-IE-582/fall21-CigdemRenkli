@@ -7,5 +7,4 @@ This is my [Progress Journal website](https://github.com/BU-IE-582/fall21-Cigdem
 There will be several homework assignments done for this course.
 
 ### Homework Assignment 1
-* [Description of Homework 1](files/IE582_Fall21_Homework_1.pdf)
-* [Homework 1 Notebook](IE582%20-%20HW1%20-%20%C3%87i%C4%9Fdem%20Renkli.html)
+* [Description of Homework 1](files/IE582_Fall21_Homework1.pdf)
