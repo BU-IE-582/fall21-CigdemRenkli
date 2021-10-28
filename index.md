@@ -8,4 +8,4 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 1
 * [Description of Homework 1](files/IE582_Fall21_Homework_1.pdf)
-* [Homework 1 Notebook](IE582 - HW1 - Çiğdem Renkli.html)
+* [Homework 1 Notebook](https://github.com/BU-IE-582/fall21-CigdemRenkli/blob/gh-pages/IE582%20-%20HW1%20-%20%C3%87i%C4%9Fdem%20Renkli.html)
