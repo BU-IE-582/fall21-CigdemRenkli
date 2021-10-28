@@ -9,5 +9,6 @@ There will be several homework assignments done for this course.
 ### Homework Assignment 1
 * [Description of Homework 1](HW1/IE582_Fall21_Homework1.pdf)
 * [Jupyter Notebook for Homework 1](HW1/HW1_Cigdem_Renkli.ipynb)
+* [HTML Document for Homework 1](HW1/HW1_Cigdem_Renkli.html)
 
 
