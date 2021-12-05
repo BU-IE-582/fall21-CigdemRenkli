@@ -16,4 +16,9 @@ There will be several homework assignments done for this course.
 * [Homework 2 Solutions - HTML](HW2/HW2_Cigdem_Renkli.html)
 * [Homework 2 Solutions - Jupyter Notebook](HW2/HW2_Cigdem_Renkli.ipynb)
 
+### Homework Assignment 3
+* [Description of Homework 3](HW3/IE582_Fall21_Homework3.pdf)
+* [Homework 3 Solutions - HTML](HW3/HW3_Cigdem_Renkli.html)
+* [Homework 3 Solutions - Jupyter Notebook](HW3/HW3_Cigdem_Renkli.ipynb)
+
 
