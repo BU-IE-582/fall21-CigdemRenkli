@@ -28,6 +28,6 @@ There will be several homework assignments done for this course.
 
 ### Project
 * [Project Report](Project/Group 8 Project Report.pdf)
-* [Project Codes - Jupyter Notebook](Project/FinalSubmission.ipynb)
+* [Project Codes - Jupyter Notebook](Project/Final Submission.ipynb)
 
 
