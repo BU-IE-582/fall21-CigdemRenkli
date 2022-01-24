@@ -1,0 +1,1540 @@
+﻿feature_name;explanation
+sellingprice_count_basket;Selling price statistics grouped by user_action
+sellingprice_count_favorite;Selling price statistics grouped by user_action
+sellingprice_count_order;Selling price statistics grouped by user_action
+sellingprice_count_search;Selling price statistics grouped by user_action
+sellingprice_count_visit;Selling price statistics grouped by user_action
+sellingprice_sum_basket;Selling price statistics grouped by user_action
+sellingprice_sum_favorite;Selling price statistics grouped by user_action
+sellingprice_sum_order;Selling price statistics grouped by user_action
+sellingprice_sum_search;Selling price statistics grouped by user_action
+sellingprice_sum_visit;Selling price statistics grouped by user_action
+sellingprice_mean_basket;Selling price statistics grouped by user_action
+sellingprice_mean_favorite;Selling price statistics grouped by user_action
+sellingprice_mean_order;Selling price statistics grouped by user_action
+sellingprice_mean_search;Selling price statistics grouped by user_action
+sellingprice_mean_visit;Selling price statistics grouped by user_action
+sellingprice_median_basket;Selling price statistics grouped by user_action
+sellingprice_median_favorite;Selling price statistics grouped by user_action
+sellingprice_median_order;Selling price statistics grouped by user_action
+sellingprice_median_search;Selling price statistics grouped by user_action
+sellingprice_median_visit;Selling price statistics grouped by user_action
+sellingprice_min_basket;Selling price statistics grouped by user_action
+sellingprice_min_favorite;Selling price statistics grouped by user_action
+sellingprice_min_order;Selling price statistics grouped by user_action
+sellingprice_min_search;Selling price statistics grouped by user_action
+sellingprice_min_visit;Selling price statistics grouped by user_action
+sellingprice_max_basket;Selling price statistics grouped by user_action
+sellingprice_max_favorite;Selling price statistics grouped by user_action
+sellingprice_max_order;Selling price statistics grouped by user_action
+sellingprice_max_search;Selling price statistics grouped by user_action
+sellingprice_max_visit;Selling price statistics grouped by user_action
+sellingprice_count_ALTINYILDIZ CLASSICS;Selling price statistics grouped by brand_name
+sellingprice_count_Addax;Selling price statistics grouped by brand_name
+sellingprice_count_Apple;Selling price statistics grouped by brand_name
+sellingprice_count_Aqua Di Polo 1987;Selling price statistics grouped by brand_name
+sellingprice_count_Avva;Selling price statistics grouped by brand_name
+sellingprice_count_Bambi;Selling price statistics grouped by brand_name
+sellingprice_count_Bershka;Selling price statistics grouped by brand_name
+sellingprice_count_Cool & Sexy;Selling price statistics grouped by brand_name
+sellingprice_count_DeFacto;Selling price statistics grouped by brand_name
+sellingprice_count_Dilvin;Selling price statistics grouped by brand_name
+sellingprice_count_Elle Shoes;Selling price statistics grouped by brand_name
+sellingprice_count_English Home;Selling price statistics grouped by brand_name
+sellingprice_count_HUMMEL;Selling price statistics grouped by brand_name
+sellingprice_count_Happiness İst.;Selling price statistics grouped by brand_name
+sellingprice_count_Karaca;Selling price statistics grouped by brand_name
+sellingprice_count_Kitchen Life;Selling price statistics grouped by brand_name
+sellingprice_count_Koton;Selling price statistics grouped by brand_name
+sellingprice_count_Koton Kids;Selling price statistics grouped by brand_name
+sellingprice_count_LC Waikiki;Selling price statistics grouped by brand_name
+sellingprice_count_MANGO Woman;Selling price statistics grouped by brand_name
+sellingprice_count_MUGGO;Selling price statistics grouped by brand_name
+sellingprice_count_Madame Coco;Selling price statistics grouped by brand_name
+sellingprice_count_Mavi;Selling price statistics grouped by brand_name
+sellingprice_count_Nike;Selling price statistics grouped by brand_name
+sellingprice_count_Olalook;Selling price statistics grouped by brand_name
+sellingprice_count_Oysho;Selling price statistics grouped by brand_name
+sellingprice_count_Penti;Selling price statistics grouped by brand_name
+sellingprice_count_Pierre Cardin;Selling price statistics grouped by brand_name
+sellingprice_count_Pull & Bear;Selling price statistics grouped by brand_name
+sellingprice_count_Puma;Selling price statistics grouped by brand_name
+sellingprice_count_SOHO;Selling price statistics grouped by brand_name
+sellingprice_count_Sateen;Selling price statistics grouped by brand_name
+sellingprice_count_Stradivarius;Selling price statistics grouped by brand_name
+sellingprice_count_TRENDYOL MAN;Selling price statistics grouped by brand_name
+sellingprice_count_TRENDYOLMİLLA;Selling price statistics grouped by brand_name
+sellingprice_count_Terapi Men;Selling price statistics grouped by brand_name
+sellingprice_count_Tonny Black;Selling price statistics grouped by brand_name
+sellingprice_count_Trend Alaçatı Stili;Selling price statistics grouped by brand_name
+sellingprice_count_U.S. Polo Assn.;Selling price statistics grouped by brand_name
+sellingprice_count_XENA;Selling price statistics grouped by brand_name
+sellingprice_count_Xiaomi;Selling price statistics grouped by brand_name
+sellingprice_count_Yaya  by Hotiç;Selling price statistics grouped by brand_name
+sellingprice_count_adidas;Selling price statistics grouped by brand_name
+sellingprice_count_armonika;Selling price statistics grouped by brand_name
+sellingprice_count_other_brand_name;Selling price statistics grouped by brand_name
+sellingprice_sum_ALTINYILDIZ CLASSICS;Selling price statistics grouped by brand_name
+sellingprice_sum_Addax;Selling price statistics grouped by brand_name
+sellingprice_sum_Apple;Selling price statistics grouped by brand_name
+sellingprice_sum_Aqua Di Polo 1987;Selling price statistics grouped by brand_name
+sellingprice_sum_Avva;Selling price statistics grouped by brand_name
+sellingprice_sum_Bambi;Selling price statistics grouped by brand_name
+sellingprice_sum_Bershka;Selling price statistics grouped by brand_name
+sellingprice_sum_Cool & Sexy;Selling price statistics grouped by brand_name
+sellingprice_sum_DeFacto;Selling price statistics grouped by brand_name
+sellingprice_sum_Dilvin;Selling price statistics grouped by brand_name
+sellingprice_sum_Elle Shoes;Selling price statistics grouped by brand_name
+sellingprice_sum_English Home;Selling price statistics grouped by brand_name
+sellingprice_sum_HUMMEL;Selling price statistics grouped by brand_name
+sellingprice_sum_Happiness İst.;Selling price statistics grouped by brand_name
+sellingprice_sum_Karaca;Selling price statistics grouped by brand_name
+sellingprice_sum_Kitchen Life;Selling price statistics grouped by brand_name
+sellingprice_sum_Koton;Selling price statistics grouped by brand_name
+sellingprice_sum_Koton Kids;Selling price statistics grouped by brand_name
+sellingprice_sum_LC Waikiki;Selling price statistics grouped by brand_name
+sellingprice_sum_MANGO Woman;Selling price statistics grouped by brand_name
+sellingprice_sum_MUGGO;Selling price statistics grouped by brand_name
+sellingprice_sum_Madame Coco;Selling price statistics grouped by brand_name
+sellingprice_sum_Mavi;Selling price statistics grouped by brand_name
+sellingprice_sum_Nike;Selling price statistics grouped by brand_name
+sellingprice_sum_Olalook;Selling price statistics grouped by brand_name
+sellingprice_sum_Oysho;Selling price statistics grouped by brand_name
+sellingprice_sum_Penti;Selling price statistics grouped by brand_name
+sellingprice_sum_Pierre Cardin;Selling price statistics grouped by brand_name
+sellingprice_sum_Pull & Bear;Selling price statistics grouped by brand_name
+sellingprice_sum_Puma;Selling price statistics grouped by brand_name
+sellingprice_sum_SOHO;Selling price statistics grouped by brand_name
+sellingprice_sum_Sateen;Selling price statistics grouped by brand_name
+sellingprice_sum_Stradivarius;Selling price statistics grouped by brand_name
+sellingprice_sum_TRENDYOL MAN;Selling price statistics grouped by brand_name
+sellingprice_sum_TRENDYOLMİLLA;Selling price statistics grouped by brand_name
+sellingprice_sum_Terapi Men;Selling price statistics grouped by brand_name
+sellingprice_sum_Tonny Black;Selling price statistics grouped by brand_name
+sellingprice_sum_Trend Alaçatı Stili;Selling price statistics grouped by brand_name
+sellingprice_sum_U.S. Polo Assn.;Selling price statistics grouped by brand_name
+sellingprice_sum_XENA;Selling price statistics grouped by brand_name
+sellingprice_sum_Xiaomi;Selling price statistics grouped by brand_name
+sellingprice_sum_Yaya  by Hotiç;Selling price statistics grouped by brand_name
+sellingprice_sum_adidas;Selling price statistics grouped by brand_name
+sellingprice_sum_armonika;Selling price statistics grouped by brand_name
+sellingprice_sum_other_brand_name;Selling price statistics grouped by brand_name
+sellingprice_mean_ALTINYILDIZ CLASSICS;Selling price statistics grouped by brand_name
+sellingprice_mean_Addax;Selling price statistics grouped by brand_name
+sellingprice_mean_Apple;Selling price statistics grouped by brand_name
+sellingprice_mean_Aqua Di Polo 1987;Selling price statistics grouped by brand_name
+sellingprice_mean_Avva;Selling price statistics grouped by brand_name
+sellingprice_mean_Bambi;Selling price statistics grouped by brand_name
+sellingprice_mean_Bershka;Selling price statistics grouped by brand_name
+sellingprice_mean_Cool & Sexy;Selling price statistics grouped by brand_name
+sellingprice_mean_DeFacto;Selling price statistics grouped by brand_name
+sellingprice_mean_Dilvin;Selling price statistics grouped by brand_name
+sellingprice_mean_Elle Shoes;Selling price statistics grouped by brand_name
+sellingprice_mean_English Home;Selling price statistics grouped by brand_name
+sellingprice_mean_HUMMEL;Selling price statistics grouped by brand_name
+sellingprice_mean_Happiness İst.;Selling price statistics grouped by brand_name
+sellingprice_mean_Karaca;Selling price statistics grouped by brand_name
+sellingprice_mean_Kitchen Life;Selling price statistics grouped by brand_name
+sellingprice_mean_Koton;Selling price statistics grouped by brand_name
+sellingprice_mean_Koton Kids;Selling price statistics grouped by brand_name
+sellingprice_mean_LC Waikiki;Selling price statistics grouped by brand_name
+sellingprice_mean_MANGO Woman;Selling price statistics grouped by brand_name
+sellingprice_mean_MUGGO;Selling price statistics grouped by brand_name
+sellingprice_mean_Madame Coco;Selling price statistics grouped by brand_name
+sellingprice_mean_Mavi;Selling price statistics grouped by brand_name
+sellingprice_mean_Nike;Selling price statistics grouped by brand_name
+sellingprice_mean_Olalook;Selling price statistics grouped by brand_name
+sellingprice_mean_Oysho;Selling price statistics grouped by brand_name
+sellingprice_mean_Penti;Selling price statistics grouped by brand_name
+sellingprice_mean_Pierre Cardin;Selling price statistics grouped by brand_name
+sellingprice_mean_Pull & Bear;Selling price statistics grouped by brand_name
+sellingprice_mean_Puma;Selling price statistics grouped by brand_name
+sellingprice_mean_SOHO;Selling price statistics grouped by brand_name
+sellingprice_mean_Sateen;Selling price statistics grouped by brand_name
+sellingprice_mean_Stradivarius;Selling price statistics grouped by brand_name
+sellingprice_mean_TRENDYOL MAN;Selling price statistics grouped by brand_name
+sellingprice_mean_TRENDYOLMİLLA;Selling price statistics grouped by brand_name
+sellingprice_mean_Terapi Men;Selling price statistics grouped by brand_name
+sellingprice_mean_Tonny Black;Selling price statistics grouped by brand_name
+sellingprice_mean_Trend Alaçatı Stili;Selling price statistics grouped by brand_name
+sellingprice_mean_U.S. Polo Assn.;Selling price statistics grouped by brand_name
+sellingprice_mean_XENA;Selling price statistics grouped by brand_name
+sellingprice_mean_Xiaomi;Selling price statistics grouped by brand_name
+sellingprice_mean_Yaya  by Hotiç;Selling price statistics grouped by brand_name
+sellingprice_mean_adidas;Selling price statistics grouped by brand_name
+sellingprice_mean_armonika;Selling price statistics grouped by brand_name
+sellingprice_mean_other_brand_name;Selling price statistics grouped by brand_name
+sellingprice_median_ALTINYILDIZ CLASSICS;Selling price statistics grouped by brand_name
+sellingprice_median_Addax;Selling price statistics grouped by brand_name
+sellingprice_median_Apple;Selling price statistics grouped by brand_name
+sellingprice_median_Aqua Di Polo 1987;Selling price statistics grouped by brand_name
+sellingprice_median_Avva;Selling price statistics grouped by brand_name
+sellingprice_median_Bambi;Selling price statistics grouped by brand_name
+sellingprice_median_Bershka;Selling price statistics grouped by brand_name
+sellingprice_median_Cool & Sexy;Selling price statistics grouped by brand_name
+sellingprice_median_DeFacto;Selling price statistics grouped by brand_name
+sellingprice_median_Dilvin;Selling price statistics grouped by brand_name
+sellingprice_median_Elle Shoes;Selling price statistics grouped by brand_name
+sellingprice_median_English Home;Selling price statistics grouped by brand_name
+sellingprice_median_HUMMEL;Selling price statistics grouped by brand_name
+sellingprice_median_Happiness İst.;Selling price statistics grouped by brand_name
+sellingprice_median_Karaca;Selling price statistics grouped by brand_name
+sellingprice_median_Kitchen Life;Selling price statistics grouped by brand_name
+sellingprice_median_Koton;Selling price statistics grouped by brand_name
+sellingprice_median_Koton Kids;Selling price statistics grouped by brand_name
+sellingprice_median_LC Waikiki;Selling price statistics grouped by brand_name
+sellingprice_median_MANGO Woman;Selling price statistics grouped by brand_name
+sellingprice_median_MUGGO;Selling price statistics grouped by brand_name
+sellingprice_median_Madame Coco;Selling price statistics grouped by brand_name
+sellingprice_median_Mavi;Selling price statistics grouped by brand_name
+sellingprice_median_Nike;Selling price statistics grouped by brand_name
+sellingprice_median_Olalook;Selling price statistics grouped by brand_name
+sellingprice_median_Oysho;Selling price statistics grouped by brand_name
+sellingprice_median_Penti;Selling price statistics grouped by brand_name
+sellingprice_median_Pierre Cardin;Selling price statistics grouped by brand_name
+sellingprice_median_Pull & Bear;Selling price statistics grouped by brand_name
+sellingprice_median_Puma;Selling price statistics grouped by brand_name
+sellingprice_median_SOHO;Selling price statistics grouped by brand_name
+sellingprice_median_Sateen;Selling price statistics grouped by brand_name
+sellingprice_median_Stradivarius;Selling price statistics grouped by brand_name
+sellingprice_median_TRENDYOL MAN;Selling price statistics grouped by brand_name
+sellingprice_median_TRENDYOLMİLLA;Selling price statistics grouped by brand_name
+sellingprice_median_Terapi Men;Selling price statistics grouped by brand_name
+sellingprice_median_Tonny Black;Selling price statistics grouped by brand_name
+sellingprice_median_Trend Alaçatı Stili;Selling price statistics grouped by brand_name
+sellingprice_median_U.S. Polo Assn.;Selling price statistics grouped by brand_name
+sellingprice_median_XENA;Selling price statistics grouped by brand_name
+sellingprice_median_Xiaomi;Selling price statistics grouped by brand_name
+sellingprice_median_Yaya  by Hotiç;Selling price statistics grouped by brand_name
+sellingprice_median_adidas;Selling price statistics grouped by brand_name
+sellingprice_median_armonika;Selling price statistics grouped by brand_name
+sellingprice_median_other_brand_name;Selling price statistics grouped by brand_name
+sellingprice_min_ALTINYILDIZ CLASSICS;Selling price statistics grouped by brand_name
+sellingprice_min_Addax;Selling price statistics grouped by brand_name
+sellingprice_min_Apple;Selling price statistics grouped by brand_name
+sellingprice_min_Aqua Di Polo 1987;Selling price statistics grouped by brand_name
+sellingprice_min_Avva;Selling price statistics grouped by brand_name
+sellingprice_min_Bambi;Selling price statistics grouped by brand_name
+sellingprice_min_Bershka;Selling price statistics grouped by brand_name
+sellingprice_min_Cool & Sexy;Selling price statistics grouped by brand_name
+sellingprice_min_DeFacto;Selling price statistics grouped by brand_name
+sellingprice_min_Dilvin;Selling price statistics grouped by brand_name
+sellingprice_min_Elle Shoes;Selling price statistics grouped by brand_name
+sellingprice_min_English Home;Selling price statistics grouped by brand_name
+sellingprice_min_HUMMEL;Selling price statistics grouped by brand_name
+sellingprice_min_Happiness İst.;Selling price statistics grouped by brand_name
+sellingprice_min_Karaca;Selling price statistics grouped by brand_name
+sellingprice_min_Kitchen Life;Selling price statistics grouped by brand_name
+sellingprice_min_Koton;Selling price statistics grouped by brand_name
+sellingprice_min_Koton Kids;Selling price statistics grouped by brand_name
+sellingprice_min_LC Waikiki;Selling price statistics grouped by brand_name
+sellingprice_min_MANGO Woman;Selling price statistics grouped by brand_name
+sellingprice_min_MUGGO;Selling price statistics grouped by brand_name
+sellingprice_min_Madame Coco;Selling price statistics grouped by brand_name
+sellingprice_min_Mavi;Selling price statistics grouped by brand_name
+sellingprice_min_Nike;Selling price statistics grouped by brand_name
+sellingprice_min_Olalook;Selling price statistics grouped by brand_name
+sellingprice_min_Oysho;Selling price statistics grouped by brand_name
+sellingprice_min_Penti;Selling price statistics grouped by brand_name
+sellingprice_min_Pierre Cardin;Selling price statistics grouped by brand_name
+sellingprice_min_Pull & Bear;Selling price statistics grouped by brand_name
+sellingprice_min_Puma;Selling price statistics grouped by brand_name
+sellingprice_min_SOHO;Selling price statistics grouped by brand_name
+sellingprice_min_Sateen;Selling price statistics grouped by brand_name
+sellingprice_min_Stradivarius;Selling price statistics grouped by brand_name
+sellingprice_min_TRENDYOL MAN;Selling price statistics grouped by brand_name
+sellingprice_min_TRENDYOLMİLLA;Selling price statistics grouped by brand_name
+sellingprice_min_Terapi Men;Selling price statistics grouped by brand_name
+sellingprice_min_Tonny Black;Selling price statistics grouped by brand_name
+sellingprice_min_Trend Alaçatı Stili;Selling price statistics grouped by brand_name
+sellingprice_min_U.S. Polo Assn.;Selling price statistics grouped by brand_name
+sellingprice_min_XENA;Selling price statistics grouped by brand_name
+sellingprice_min_Xiaomi;Selling price statistics grouped by brand_name
+sellingprice_min_Yaya  by Hotiç;Selling price statistics grouped by brand_name
+sellingprice_min_adidas;Selling price statistics grouped by brand_name
+sellingprice_min_armonika;Selling price statistics grouped by brand_name
+sellingprice_min_other_brand_name;Selling price statistics grouped by brand_name
+sellingprice_max_ALTINYILDIZ CLASSICS;Selling price statistics grouped by brand_name
+sellingprice_max_Addax;Selling price statistics grouped by brand_name
+sellingprice_max_Apple;Selling price statistics grouped by brand_name
+sellingprice_max_Aqua Di Polo 1987;Selling price statistics grouped by brand_name
+sellingprice_max_Avva;Selling price statistics grouped by brand_name
+sellingprice_max_Bambi;Selling price statistics grouped by brand_name
+sellingprice_max_Bershka;Selling price statistics grouped by brand_name
+sellingprice_max_Cool & Sexy;Selling price statistics grouped by brand_name
+sellingprice_max_DeFacto;Selling price statistics grouped by brand_name
+sellingprice_max_Dilvin;Selling price statistics grouped by brand_name
+sellingprice_max_Elle Shoes;Selling price statistics grouped by brand_name
+sellingprice_max_English Home;Selling price statistics grouped by brand_name
+sellingprice_max_HUMMEL;Selling price statistics grouped by brand_name
+sellingprice_max_Happiness İst.;Selling price statistics grouped by brand_name
+sellingprice_max_Karaca;Selling price statistics grouped by brand_name
+sellingprice_max_Kitchen Life;Selling price statistics grouped by brand_name
+sellingprice_max_Koton;Selling price statistics grouped by brand_name
+sellingprice_max_Koton Kids;Selling price statistics grouped by brand_name
+sellingprice_max_LC Waikiki;Selling price statistics grouped by brand_name
+sellingprice_max_MANGO Woman;Selling price statistics grouped by brand_name
+sellingprice_max_MUGGO;Selling price statistics grouped by brand_name
+sellingprice_max_Madame Coco;Selling price statistics grouped by brand_name
+sellingprice_max_Mavi;Selling price statistics grouped by brand_name
+sellingprice_max_Nike;Selling price statistics grouped by brand_name
+sellingprice_max_Olalook;Selling price statistics grouped by brand_name
+sellingprice_max_Oysho;Selling price statistics grouped by brand_name
+sellingprice_max_Penti;Selling price statistics grouped by brand_name
+sellingprice_max_Pierre Cardin;Selling price statistics grouped by brand_name
+sellingprice_max_Pull & Bear;Selling price statistics grouped by brand_name
+sellingprice_max_Puma;Selling price statistics grouped by brand_name
+sellingprice_max_SOHO;Selling price statistics grouped by brand_name
+sellingprice_max_Sateen;Selling price statistics grouped by brand_name
+sellingprice_max_Stradivarius;Selling price statistics grouped by brand_name
+sellingprice_max_TRENDYOL MAN;Selling price statistics grouped by brand_name
+sellingprice_max_TRENDYOLMİLLA;Selling price statistics grouped by brand_name
+sellingprice_max_Terapi Men;Selling price statistics grouped by brand_name
+sellingprice_max_Tonny Black;Selling price statistics grouped by brand_name
+sellingprice_max_Trend Alaçatı Stili;Selling price statistics grouped by brand_name
+sellingprice_max_U.S. Polo Assn.;Selling price statistics grouped by brand_name
+sellingprice_max_XENA;Selling price statistics grouped by brand_name
+sellingprice_max_Xiaomi;Selling price statistics grouped by brand_name
+sellingprice_max_Yaya  by Hotiç;Selling price statistics grouped by brand_name
+sellingprice_max_adidas;Selling price statistics grouped by brand_name
+sellingprice_max_armonika;Selling price statistics grouped by brand_name
+sellingprice_max_other_brand_name;Selling price statistics grouped by brand_name
+sellingprice_count_Branded Shoes A;Selling price statistics grouped by businessunit
+sellingprice_count_Branded Shoes B;Selling price statistics grouped by businessunit
+sellingprice_count_Cep Telefonu & Aksesuarları;Selling price statistics grouped by businessunit
+sellingprice_count_Cilt Bakım_x;Selling price statistics grouped by businessunit
+sellingprice_count_Erkek A;Selling price statistics grouped by brand_name
+sellingprice_count_Erkek B;Selling price statistics grouped by businessunit
+sellingprice_count_Ev Dekorasyon_x;Selling price statistics grouped by businessunit
+sellingprice_count_Ev Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_count_Ev Tekstil;Selling price statistics grouped by businessunit
+sellingprice_count_GAS Denim;Selling price statistics grouped by businessunit
+sellingprice_count_Hobi;Selling price statistics grouped by businessunit
+sellingprice_count_Kadın A;Selling price statistics grouped by businessunit
+sellingprice_count_Kadın B;Selling price statistics grouped by businessunit
+sellingprice_count_Kids & Baby Fashion;Selling price statistics grouped by businessunit
+sellingprice_count_Makyaj_x;Selling price statistics grouped by businessunit
+sellingprice_count_PL Woman;Selling price statistics grouped by businessunit
+sellingprice_count_Salon &Mutfak Mobilya;Selling price statistics grouped by businessunit
+sellingprice_count_Sağlık_x;Selling price statistics grouped by businessunit
+sellingprice_count_Sofra & Mutfak_x;Selling price statistics grouped by businessunit
+sellingprice_count_Sportswear;Selling price statistics grouped by businessunit
+sellingprice_count_Takı;Selling price statistics grouped by businessunit
+sellingprice_count_other_businessunit;Selling price statistics grouped by businessunit
+sellingprice_count_Çanta & Valiz;Selling price statistics grouped by businessunit
+sellingprice_count_İç Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_sum_Branded Shoes A;Selling price statistics grouped by businessunit
+sellingprice_sum_Branded Shoes B;Selling price statistics grouped by businessunit
+sellingprice_sum_Cep Telefonu & Aksesuarları;Selling price statistics grouped by businessunit
+sellingprice_sum_Cilt Bakım_x;Selling price statistics grouped by businessunit
+sellingprice_sum_Erkek A;Selling price statistics grouped by businessunit
+sellingprice_sum_Erkek B;Selling price statistics grouped by businessunit
+sellingprice_sum_Ev Dekorasyon_x;Selling price statistics grouped by businessunit
+sellingprice_sum_Ev Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_sum_Ev Tekstil;Selling price statistics grouped by businessunit
+sellingprice_sum_GAS Denim;Selling price statistics grouped by businessunit
+sellingprice_sum_Hobi;Selling price statistics grouped by businessunit
+sellingprice_sum_Kadın A;Selling price statistics grouped by businessunit
+sellingprice_sum_Kadın B;Selling price statistics grouped by businessunit
+sellingprice_sum_Kids & Baby Fashion;Selling price statistics grouped by businessunit
+sellingprice_sum_Makyaj_x;Selling price statistics grouped by businessunit
+sellingprice_sum_PL Woman;Selling price statistics grouped by businessunit
+sellingprice_sum_Salon &Mutfak Mobilya;Selling price statistics grouped by businessunit
+sellingprice_sum_Sağlık_x;Selling price statistics grouped by businessunit
+sellingprice_sum_Sofra & Mutfak_x;Selling price statistics grouped by businessunit
+sellingprice_sum_Sportswear;Selling price statistics grouped by businessunit
+sellingprice_sum_Takı;Selling price statistics grouped by businessunit
+sellingprice_sum_other_businessunit;Selling price statistics grouped by businessunit
+sellingprice_sum_Çanta & Valiz;Selling price statistics grouped by businessunit
+sellingprice_sum_İç Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_mean_Branded Shoes A;Selling price statistics grouped by businessunit
+sellingprice_mean_Branded Shoes B;Selling price statistics grouped by businessunit
+sellingprice_mean_Cep Telefonu & Aksesuarları;Selling price statistics grouped by businessunit
+sellingprice_mean_Cilt Bakım_x;Selling price statistics grouped by businessunit
+sellingprice_mean_Erkek A;Selling price statistics grouped by businessunit
+sellingprice_mean_Erkek B;Selling price statistics grouped by businessunit
+sellingprice_mean_Ev Dekorasyon_x;Selling price statistics grouped by businessunit
+sellingprice_mean_Ev Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_mean_Ev Tekstil;Selling price statistics grouped by businessunit
+sellingprice_mean_GAS Denim;Selling price statistics grouped by businessunit
+sellingprice_mean_Hobi;Selling price statistics grouped by businessunit
+sellingprice_mean_Kadın A;Selling price statistics grouped by businessunit
+sellingprice_mean_Kadın B;Selling price statistics grouped by businessunit
+sellingprice_mean_Kids & Baby Fashion;Selling price statistics grouped by businessunit
+sellingprice_mean_Makyaj_x;Selling price statistics grouped by businessunit
+sellingprice_mean_PL Woman;Selling price statistics grouped by businessunit
+sellingprice_mean_Salon &Mutfak Mobilya;Selling price statistics grouped by businessunit
+sellingprice_mean_Sağlık_x;Selling price statistics grouped by businessunit
+sellingprice_mean_Sofra & Mutfak_x;Selling price statistics grouped by businessunit
+sellingprice_mean_Sportswear;Selling price statistics grouped by businessunit
+sellingprice_mean_Takı;Selling price statistics grouped by businessunit
+sellingprice_mean_other_businessunit;Selling price statistics grouped by businessunit
+sellingprice_mean_Çanta & Valiz;Selling price statistics grouped by businessunit
+sellingprice_mean_İç Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_median_Branded Shoes A;Selling price statistics grouped by businessunit
+sellingprice_median_Branded Shoes B;Selling price statistics grouped by businessunit
+sellingprice_median_Cep Telefonu & Aksesuarları;Selling price statistics grouped by businessunit
+sellingprice_median_Cilt Bakım_x;Selling price statistics grouped by businessunit
+sellingprice_median_Erkek A;Selling price statistics grouped by businessunit
+sellingprice_median_Erkek B;Selling price statistics grouped by businessunit
+sellingprice_median_Ev Dekorasyon_x;Selling price statistics grouped by businessunit
+sellingprice_median_Ev Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_median_Ev Tekstil;Selling price statistics grouped by businessunit
+sellingprice_median_GAS Denim;Selling price statistics grouped by businessunit
+sellingprice_median_Hobi;Selling price statistics grouped by businessunit
+sellingprice_median_Kadın A;Selling price statistics grouped by businessunit
+sellingprice_median_Kadın B;Selling price statistics grouped by businessunit
+sellingprice_median_Kids & Baby Fashion;Selling price statistics grouped by businessunit
+sellingprice_median_Makyaj_x;Selling price statistics grouped by businessunit
+sellingprice_median_PL Woman;Selling price statistics grouped by businessunit
+sellingprice_median_Salon &Mutfak Mobilya;Selling price statistics grouped by businessunit
+sellingprice_median_Sağlık_x;Selling price statistics grouped by businessunit
+sellingprice_median_Sofra & Mutfak_x;Selling price statistics grouped by businessunit
+sellingprice_median_Sportswear;Selling price statistics grouped by businessunit
+sellingprice_median_Takı;Selling price statistics grouped by businessunit
+sellingprice_median_other_businessunit;Selling price statistics grouped by businessunit
+sellingprice_median_Çanta & Valiz;Selling price statistics grouped by businessunit
+sellingprice_median_İç Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_min_Branded Shoes A;Selling price statistics grouped by businessunit
+sellingprice_min_Branded Shoes B;Selling price statistics grouped by businessunit
+sellingprice_min_Cep Telefonu & Aksesuarları;Selling price statistics grouped by businessunit
+sellingprice_min_Cilt Bakım_x;Selling price statistics grouped by businessunit
+sellingprice_min_Erkek A;Selling price statistics grouped by businessunit
+sellingprice_min_Erkek B;Selling price statistics grouped by businessunit
+sellingprice_min_Ev Dekorasyon_x;Selling price statistics grouped by businessunit
+sellingprice_min_Ev Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_min_Ev Tekstil;Selling price statistics grouped by businessunit
+sellingprice_min_GAS Denim;Selling price statistics grouped by businessunit
+sellingprice_min_Hobi;Selling price statistics grouped by businessunit
+sellingprice_min_Kadın A;Selling price statistics grouped by businessunit
+sellingprice_min_Kadın B;Selling price statistics grouped by businessunit
+sellingprice_min_Kids & Baby Fashion;Selling price statistics grouped by businessunit
+sellingprice_min_Makyaj_x;Selling price statistics grouped by businessunit
+sellingprice_min_PL Woman;Selling price statistics grouped by businessunit
+sellingprice_min_Salon &Mutfak Mobilya;Selling price statistics grouped by businessunit
+sellingprice_min_Sağlık_x;Selling price statistics grouped by businessunit
+sellingprice_min_Sofra & Mutfak_x;Selling price statistics grouped by businessunit
+sellingprice_min_Sportswear;Selling price statistics grouped by businessunit
+sellingprice_min_Takı;Selling price statistics grouped by businessunit
+sellingprice_min_other_businessunit;Selling price statistics grouped by businessunit
+sellingprice_min_Çanta & Valiz;Selling price statistics grouped by businessunit
+sellingprice_min_İç Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_max_Branded Shoes A;Selling price statistics grouped by businessunit
+sellingprice_max_Branded Shoes B;Selling price statistics grouped by businessunit
+sellingprice_max_Cep Telefonu & Aksesuarları;Selling price statistics grouped by businessunit
+sellingprice_max_Cilt Bakım_x;Selling price statistics grouped by businessunit
+sellingprice_max_Erkek A;Selling price statistics grouped by businessunit
+sellingprice_max_Erkek B;Selling price statistics grouped by businessunit
+sellingprice_max_Ev Dekorasyon_x;Selling price statistics grouped by businessunit
+sellingprice_max_Ev Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_max_Ev Tekstil;Selling price statistics grouped by businessunit
+sellingprice_max_GAS Denim;Selling price statistics grouped by businessunit
+sellingprice_max_Hobi;Selling price statistics grouped by businessunit
+sellingprice_max_Kadın A;Selling price statistics grouped by businessunit
+sellingprice_max_Kadın B;Selling price statistics grouped by businessunit
+sellingprice_max_Kids & Baby Fashion;Selling price statistics grouped by businessunit
+sellingprice_max_Makyaj_x;Selling price statistics grouped by businessunit
+sellingprice_max_PL Woman;Selling price statistics grouped by businessunit
+sellingprice_max_Salon &Mutfak Mobilya;Selling price statistics grouped by businessunit
+sellingprice_max_Sağlık_x;Selling price statistics grouped by businessunit
+sellingprice_max_Sofra & Mutfak_x;Selling price statistics grouped by businessunit
+sellingprice_max_Sportswear;Selling price statistics grouped by businessunit
+sellingprice_max_Takı;Selling price statistics grouped by businessunit
+sellingprice_max_other_businessunit;Selling price statistics grouped by businessunit
+sellingprice_max_Çanta & Valiz;Selling price statistics grouped by businessunit
+sellingprice_max_İç Giyim_x;Selling price statistics grouped by businessunit
+sellingprice_count_Erkek;Selling price statistics grouped by product_gender
+sellingprice_count_Kadın;Selling price statistics grouped by product_gender
+sellingprice_count_Unisex;Selling price statistics grouped by product_gender
+sellingprice_sum_Erkek;Selling price statistics grouped by product_gender
+sellingprice_sum_Kadın;Selling price statistics grouped by product_gender
+sellingprice_sum_Unisex;Selling price statistics grouped by product_gender
+sellingprice_mean_Erkek;Selling price statistics grouped by product_gender
+sellingprice_mean_Kadın;Selling price statistics grouped by product_gender
+sellingprice_mean_Unisex;Selling price statistics grouped by product_gender
+sellingprice_median_Erkek;Selling price statistics grouped by product_gender
+sellingprice_median_Kadın;Selling price statistics grouped by product_gender
+sellingprice_median_Unisex;Selling price statistics grouped by product_gender
+sellingprice_min_Erkek;Selling price statistics grouped by product_gender
+sellingprice_min_Kadın;Selling price statistics grouped by product_gender
+sellingprice_min_Unisex;Selling price statistics grouped by product_gender
+sellingprice_max_Erkek;Selling price statistics grouped by product_gender
+sellingprice_max_Kadın;Selling price statistics grouped by product_gender
+sellingprice_max_Unisex;Selling price statistics grouped by product_gender
+sellingprice_count_1182.0;Selling price statistics grouped by category_id
+sellingprice_count_1186.0;Selling price statistics grouped by category_id
+sellingprice_count_407.0;Selling price statistics grouped by category_id
+sellingprice_count_529.0;Selling price statistics grouped by category_id
+sellingprice_count_535.0;Selling price statistics grouped by category_id
+sellingprice_count_563.0;Selling price statistics grouped by category_id
+sellingprice_count_599.0;Selling price statistics grouped by category_id
+sellingprice_count_601.0;Selling price statistics grouped by category_id
+sellingprice_count_975.0;Selling price statistics grouped by category_id
+sellingprice_count_other_category_id;Selling price statistics grouped by category_id
+sellingprice_sum_1182.0;Selling price statistics grouped by category_id
+sellingprice_sum_1186.0;Selling price statistics grouped by category_id
+sellingprice_sum_407.0;Selling price statistics grouped by category_id
+sellingprice_sum_529.0;Selling price statistics grouped by category_id
+sellingprice_sum_535.0;Selling price statistics grouped by category_id
+sellingprice_sum_563.0;Selling price statistics grouped by category_id
+sellingprice_sum_599.0;Selling price statistics grouped by category_id
+sellingprice_sum_601.0;Selling price statistics grouped by category_id
+sellingprice_sum_975.0;Selling price statistics grouped by category_id
+sellingprice_sum_other_category_id;Selling price statistics grouped by category_id
+sellingprice_mean_1182.0;Selling price statistics grouped by category_id
+sellingprice_mean_1186.0;Selling price statistics grouped by category_id
+sellingprice_mean_407.0;Selling price statistics grouped by category_id
+sellingprice_mean_529.0;Selling price statistics grouped by category_id
+sellingprice_mean_535.0;Selling price statistics grouped by category_id
+sellingprice_mean_563.0;Selling price statistics grouped by category_id
+sellingprice_mean_599.0;Selling price statistics grouped by category_id
+sellingprice_mean_601.0;Selling price statistics grouped by category_id
+sellingprice_mean_975.0;Selling price statistics grouped by category_id
+sellingprice_mean_other_category_id;Selling price statistics grouped by category_id
+sellingprice_median_1182.0;Selling price statistics grouped by category_id
+sellingprice_median_1186.0;Selling price statistics grouped by category_id
+sellingprice_median_407.0;Selling price statistics grouped by category_id
+sellingprice_median_529.0;Selling price statistics grouped by category_id
+sellingprice_median_535.0;Selling price statistics grouped by category_id
+sellingprice_median_563.0;Selling price statistics grouped by category_id
+sellingprice_median_599.0;Selling price statistics grouped by category_id
+sellingprice_median_601.0;Selling price statistics grouped by category_id
+sellingprice_median_975.0;Selling price statistics grouped by category_id
+sellingprice_median_other_category_id;Selling price statistics grouped by category_id
+sellingprice_min_1182.0;Selling price statistics grouped by category_id
+sellingprice_min_1186.0;Selling price statistics grouped by category_id
+sellingprice_min_407.0;Selling price statistics grouped by category_id
+sellingprice_min_529.0;Selling price statistics grouped by category_id
+sellingprice_min_535.0;Selling price statistics grouped by category_id
+sellingprice_min_563.0;Selling price statistics grouped by category_id
+sellingprice_min_599.0;Selling price statistics grouped by category_id
+sellingprice_min_601.0;Selling price statistics grouped by category_id
+sellingprice_min_975.0;Selling price statistics grouped by category_id
+sellingprice_min_other_category_id;Selling price statistics grouped by category_id
+sellingprice_max_1182.0;Selling price statistics grouped by category_id
+sellingprice_max_1186.0;Selling price statistics grouped by category_id
+sellingprice_max_407.0;Selling price statistics grouped by category_id
+sellingprice_max_529.0;Selling price statistics grouped by category_id
+sellingprice_max_535.0;Selling price statistics grouped by category_id
+sellingprice_max_563.0;Selling price statistics grouped by category_id
+sellingprice_max_599.0;Selling price statistics grouped by category_id
+sellingprice_max_601.0;Selling price statistics grouped by category_id
+sellingprice_max_975.0;Selling price statistics grouped by category_id
+sellingprice_max_other_category_id;Selling price statistics grouped by category_id
+sellingprice_count_Aksesuar;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Anne & Bebek & Çocuk;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Ayakkabı;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Elektronik;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Ev & Mobilya;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Giyim;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Kozmetik & Kişisel Bakım;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Spor & Outdoor;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Süpermarket;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Yaşam;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Aksesuar;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Anne & Bebek & Çocuk;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Ayakkabı;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Elektronik;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Ev & Mobilya;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Giyim;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Kozmetik & Kişisel Bakım;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Spor & Outdoor;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Süpermarket;Selling price statistics grouped by Level1_Category_Id
+sellingprice_sum_Yaşam;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Aksesuar;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Anne & Bebek & Çocuk;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Ayakkabı;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Elektronik;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Ev & Mobilya;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Giyim;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Kozmetik & Kişisel Bakım;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Spor & Outdoor;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Süpermarket;Selling price statistics grouped by Level1_Category_Id
+sellingprice_mean_Yaşam;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Aksesuar;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Anne & Bebek & Çocuk;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Ayakkabı;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Elektronik;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Ev & Mobilya;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Giyim;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Kozmetik & Kişisel Bakım;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Spor & Outdoor;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Süpermarket;Selling price statistics grouped by Level1_Category_Id
+sellingprice_median_Yaşam;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Aksesuar;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Anne & Bebek & Çocuk;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Ayakkabı;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Elektronik;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Ev & Mobilya;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Giyim;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Kozmetik & Kişisel Bakım;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Spor & Outdoor;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Süpermarket;Selling price statistics grouped by Level1_Category_Id
+sellingprice_min_Yaşam;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Aksesuar;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Anne & Bebek & Çocuk;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Ayakkabı;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Elektronik;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Ev & Mobilya;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Giyim;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Kozmetik & Kişisel Bakım;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Spor & Outdoor;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Süpermarket;Selling price statistics grouped by Level1_Category_Id
+sellingprice_max_Yaşam;Selling price statistics grouped by Level1_Category_Id
+sellingprice_count_Alt Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Bot & Çizme;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Cilt Bakım_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Dış Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Elbise_x;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Elektrikli Ev Aletleri;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Ev Dekorasyon_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Ev Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Ev Tekstili;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Makyaj_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Mobilya;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Sağlık_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Sofra & Mutfak_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Spor Ayakkabı;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Spor Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Takı & Mücevher;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Telefon;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_other_2;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Çanta;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Üst Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_İç Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Alt Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Bot & Çizme;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Cilt Bakım_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Dış Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Elbise_x;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Elektrikli Ev Aletleri;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Ev Dekorasyon_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Ev Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Ev Tekstili;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Makyaj_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Mobilya;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Sağlık_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Sofra & Mutfak_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Spor Ayakkabı;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Spor Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Takı & Mücevher;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Telefon;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_other_2;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Çanta;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_Üst Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_sum_İç Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Alt Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Bot & Çizme;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Cilt Bakım_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Dış Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Elbise_x;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Elektrikli Ev Aletleri;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Ev Dekorasyon_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Ev Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Ev Tekstili;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Makyaj_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Mobilya;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Sağlık_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Sofra & Mutfak_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Spor Ayakkabı;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Spor Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Takı & Mücevher;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Telefon;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_other_2;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Çanta;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_Üst Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_mean_İç Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Alt Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Bot & Çizme;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Cilt Bakım_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Dış Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Elbise_x;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Elektrikli Ev Aletleri;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Ev Dekorasyon_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Ev Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Ev Tekstili;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Makyaj_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Mobilya;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Sağlık_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Sofra & Mutfak_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Spor Ayakkabı;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Spor Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Takı & Mücevher;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Telefon;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_other_2;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Çanta;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_Üst Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_median_İç Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Alt Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Bot & Çizme;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Cilt Bakım_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Dış Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Elbise_x;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Elektrikli Ev Aletleri;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Ev Dekorasyon_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Ev Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Ev Tekstili;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Makyaj_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Mobilya;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Sağlık_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Sofra & Mutfak_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Spor Ayakkabı;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Spor Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Takı & Mücevher;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Telefon;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_other_2;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Çanta;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_Üst Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_min_İç Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Alt Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Bot & Çizme;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Cilt Bakım_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Dış Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Elbise_x;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Elektrikli Ev Aletleri;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Ev Dekorasyon_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Ev Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Ev Tekstili;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Makyaj_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Mobilya;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Sağlık_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Sofra & Mutfak_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Spor Ayakkabı;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Spor Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Takı & Mücevher;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Telefon;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_other_2;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Çanta;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_Üst Giyim;Selling price statistics grouped by Level2_Category_Id
+sellingprice_max_İç Giyim_y;Selling price statistics grouped by Level2_Category_Id
+sellingprice_count_Alt-Üst Takım;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Bluz & Tunik;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Bot & Bootie;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Ceket & Yelek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Cep Telefonu Aksesuar;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Elbise_y;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Etek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Eşofman;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Gömlek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Halı & Kilim & Paspas;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Jeans;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Kaban & Mont;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Kazak & Hırka;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Kolye;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Medikal Maske;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Mutfak Saklama ve Düzenleme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Omuz Çantası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Pantolon;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Pijama;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Pişirme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Saat;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Salon & Oturma Odası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Sneaker;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Sofra;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Sweatshirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Sütyen;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_T-Shirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Tablo;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Tayt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Yapı Market;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Yatak Odası Tekstili;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_other_3;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Çizme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_count_Çorap;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Alt-Üst Takım;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Bluz & Tunik;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Bot & Bootie;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Ceket & Yelek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Cep Telefonu Aksesuar;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Elbise_y;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Etek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Eşofman;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Gömlek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Halı & Kilim & Paspas;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Jeans;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Kaban & Mont;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Kazak & Hırka;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Kolye;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Medikal Maske;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Mutfak Saklama ve Düzenleme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Omuz Çantası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Pantolon;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Pijama;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Pişirme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Saat;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Salon & Oturma Odası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Sneaker;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Sofra;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Sweatshirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Sütyen;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_T-Shirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Tablo;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Tayt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Yapı Market;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Yatak Odası Tekstili;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_other_3;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Çizme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_sum_Çorap;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Alt-Üst Takım;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Bluz & Tunik;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Bot & Bootie;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Ceket & Yelek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Cep Telefonu Aksesuar;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Elbise_y;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Etek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Eşofman;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Gömlek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Halı & Kilim & Paspas;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Jeans;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Kaban & Mont;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Kazak & Hırka;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Kolye;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Medikal Maske;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Mutfak Saklama ve Düzenleme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Omuz Çantası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Pantolon;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Pijama;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Pişirme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Saat;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Salon & Oturma Odası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Sneaker;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Sofra;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Sweatshirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Sütyen;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_T-Shirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Tablo;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Tayt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Yapı Market;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Yatak Odası Tekstili;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_other_3;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Çizme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_mean_Çorap;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Alt-Üst Takım;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Bluz & Tunik;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Bot & Bootie;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Ceket & Yelek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Cep Telefonu Aksesuar;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Elbise_y;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Etek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Eşofman;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Gömlek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Halı & Kilim & Paspas;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Jeans;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Kaban & Mont;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Kazak & Hırka;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Kolye;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Medikal Maske;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Mutfak Saklama ve Düzenleme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Omuz Çantası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Pantolon;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Pijama;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Pişirme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Saat;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Salon & Oturma Odası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Sneaker;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Sofra;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Sweatshirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Sütyen;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_T-Shirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Tablo;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Tayt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Yapı Market;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Yatak Odası Tekstili;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_other_3;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Çizme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_median_Çorap;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Alt-Üst Takım;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Bluz & Tunik;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Bot & Bootie;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Ceket & Yelek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Cep Telefonu Aksesuar;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Elbise_y;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Etek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Eşofman;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Gömlek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Halı & Kilim & Paspas;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Jeans;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Kaban & Mont;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Kazak & Hırka;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Kolye;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Medikal Maske;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Mutfak Saklama ve Düzenleme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Omuz Çantası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Pantolon;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Pijama;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Pişirme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Saat;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Salon & Oturma Odası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Sneaker;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Sofra;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Sweatshirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Sütyen;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_T-Shirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Tablo;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Tayt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Yapı Market;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Yatak Odası Tekstili;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_other_3;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Çizme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_min_Çorap;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Alt-Üst Takım;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Bluz & Tunik;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Bot & Bootie;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Ceket & Yelek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Cep Telefonu Aksesuar;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Elbise_y;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Etek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Eşofman;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Gömlek;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Halı & Kilim & Paspas;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Jeans;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Kaban & Mont;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Kazak & Hırka;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Kolye;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Medikal Maske;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Mutfak Saklama ve Düzenleme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Omuz Çantası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Pantolon;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Pijama;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Pişirme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Saat;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Salon & Oturma Odası;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Sneaker;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Sofra;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Sweatshirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Sütyen;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_T-Shirt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Tablo;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Tayt;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Yapı Market;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Yatak Odası Tekstili;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_other_3;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Çizme;Selling price statistics grouped by Level3_Category_Id
+sellingprice_max_Çorap;Selling price statistics grouped by Level3_Category_Id
+weekend_sellingprice_count_0;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_count_1;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_sum_0;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_sum_1;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_mean_0;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_mean_1;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_median_0;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_median_1;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_min_0;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_min_1;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_max_0;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+weekend_sellingprice_max_1;"Selling price statistics grouped by weekend information (0 if not weekend;1 if weekend)"
+campaign_sellingprice_count_0;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_count_1;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_sum_0;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_sum_1;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_mean_0;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_mean_1;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_median_0;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_median_1;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_min_0;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_min_1;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_max_0;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+campaign_sellingprice_max_1;"Selling price statistics grouped by campaign information (0 if not campaign period; 1 if campaign period)"
+day_sellingprice_count_Friday;Selling price statistics grouped by day_name
+day_sellingprice_count_Monday;Selling price statistics grouped by day_name
+day_sellingprice_count_Saturday;Selling price statistics grouped by day_name
+day_sellingprice_count_Sunday;Selling price statistics grouped by day_name
+day_sellingprice_count_Thursday;Selling price statistics grouped by day_name
+day_sellingprice_count_Tuesday;Selling price statistics grouped by day_name
+day_sellingprice_count_Wednesday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Friday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Monday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Saturday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Sunday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Thursday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Tuesday;Selling price statistics grouped by day_name
+day_sellingprice_sum_Wednesday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Friday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Monday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Saturday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Sunday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Thursday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Tuesday;Selling price statistics grouped by day_name
+day_sellingprice_mean_Wednesday;Selling price statistics grouped by day_name
+day_sellingprice_median_Friday;Selling price statistics grouped by day_name
+day_sellingprice_median_Monday;Selling price statistics grouped by day_name
+day_sellingprice_median_Saturday;Selling price statistics grouped by day_name
+day_sellingprice_median_Sunday;Selling price statistics grouped by day_name
+day_sellingprice_median_Thursday;Selling price statistics grouped by day_name
+day_sellingprice_median_Tuesday;Selling price statistics grouped by day_name
+day_sellingprice_median_Wednesday;Selling price statistics grouped by day_name
+day_sellingprice_min_Friday;Selling price statistics grouped by day_name
+day_sellingprice_min_Monday;Selling price statistics grouped by day_name
+day_sellingprice_min_Saturday;Selling price statistics grouped by day_name
+day_sellingprice_min_Sunday;Selling price statistics grouped by day_name
+day_sellingprice_min_Thursday;Selling price statistics grouped by day_name
+day_sellingprice_min_Tuesday;Selling price statistics grouped by day_name
+day_sellingprice_min_Wednesday;Selling price statistics grouped by day_name
+day_sellingprice_max_Friday;Selling price statistics grouped by day_name
+day_sellingprice_max_Monday;Selling price statistics grouped by day_name
+day_sellingprice_max_Saturday;Selling price statistics grouped by day_name
+day_sellingprice_max_Sunday;Selling price statistics grouped by day_name
+day_sellingprice_max_Thursday;Selling price statistics grouped by day_name
+day_sellingprice_max_Tuesday;Selling price statistics grouped by day_name
+day_sellingprice_max_Wednesday;Selling price statistics grouped by day_name
+hour_sellingprice_count_0;Selling price statistics grouped by hour
+hour_sellingprice_count_1;Selling price statistics grouped by hour
+hour_sellingprice_count_2;Selling price statistics grouped by hour
+hour_sellingprice_count_3;Selling price statistics grouped by hour
+hour_sellingprice_count_4;Selling price statistics grouped by hour
+hour_sellingprice_count_5;Selling price statistics grouped by hour
+hour_sellingprice_count_6;Selling price statistics grouped by hour
+hour_sellingprice_count_7;Selling price statistics grouped by hour
+hour_sellingprice_count_8;Selling price statistics grouped by hour
+hour_sellingprice_count_9;Selling price statistics grouped by hour
+hour_sellingprice_count_10;Selling price statistics grouped by hour
+hour_sellingprice_count_11;Selling price statistics grouped by hour
+hour_sellingprice_count_12;Selling price statistics grouped by hour
+hour_sellingprice_count_13;Selling price statistics grouped by hour
+hour_sellingprice_count_14;Selling price statistics grouped by hour
+hour_sellingprice_count_15;Selling price statistics grouped by hour
+hour_sellingprice_count_16;Selling price statistics grouped by hour
+hour_sellingprice_count_17;Selling price statistics grouped by hour
+hour_sellingprice_count_18;Selling price statistics grouped by hour
+hour_sellingprice_count_19;Selling price statistics grouped by hour
+hour_sellingprice_count_20;Selling price statistics grouped by hour
+hour_sellingprice_count_21;Selling price statistics grouped by hour
+hour_sellingprice_count_22;Selling price statistics grouped by hour
+hour_sellingprice_count_23;Selling price statistics grouped by hour
+hour_sellingprice_sum_0;Selling price statistics grouped by hour
+hour_sellingprice_sum_1;Selling price statistics grouped by hour
+hour_sellingprice_sum_2;Selling price statistics grouped by hour
+hour_sellingprice_sum_3;Selling price statistics grouped by hour
+hour_sellingprice_sum_4;Selling price statistics grouped by hour
+hour_sellingprice_sum_5;Selling price statistics grouped by hour
+hour_sellingprice_sum_6;Selling price statistics grouped by hour
+hour_sellingprice_sum_7;Selling price statistics grouped by hour
+hour_sellingprice_sum_8;Selling price statistics grouped by hour
+hour_sellingprice_sum_9;Selling price statistics grouped by hour
+hour_sellingprice_sum_10;Selling price statistics grouped by hour
+hour_sellingprice_sum_11;Selling price statistics grouped by hour
+hour_sellingprice_sum_12;Selling price statistics grouped by hour
+hour_sellingprice_sum_13;Selling price statistics grouped by hour
+hour_sellingprice_sum_14;Selling price statistics grouped by hour
+hour_sellingprice_sum_15;Selling price statistics grouped by hour
+hour_sellingprice_sum_16;Selling price statistics grouped by hour
+hour_sellingprice_sum_17;Selling price statistics grouped by hour
+hour_sellingprice_sum_18;Selling price statistics grouped by hour
+hour_sellingprice_sum_19;Selling price statistics grouped by hour
+hour_sellingprice_sum_20;Selling price statistics grouped by hour
+hour_sellingprice_sum_21;Selling price statistics grouped by hour
+hour_sellingprice_sum_22;Selling price statistics grouped by hour
+hour_sellingprice_sum_23;Selling price statistics grouped by hour
+hour_sellingprice_mean_0;Selling price statistics grouped by hour
+hour_sellingprice_mean_1;Selling price statistics grouped by hour
+hour_sellingprice_mean_2;Selling price statistics grouped by hour
+hour_sellingprice_mean_3;Selling price statistics grouped by hour
+hour_sellingprice_mean_4;Selling price statistics grouped by hour
+hour_sellingprice_mean_5;Selling price statistics grouped by hour
+hour_sellingprice_mean_6;Selling price statistics grouped by hour
+hour_sellingprice_mean_7;Selling price statistics grouped by hour
+hour_sellingprice_mean_8;Selling price statistics grouped by hour
+hour_sellingprice_mean_9;Selling price statistics grouped by hour
+hour_sellingprice_mean_10;Selling price statistics grouped by hour
+hour_sellingprice_mean_11;Selling price statistics grouped by hour
+hour_sellingprice_mean_12;Selling price statistics grouped by hour
+hour_sellingprice_mean_13;Selling price statistics grouped by hour
+hour_sellingprice_mean_14;Selling price statistics grouped by hour
+hour_sellingprice_mean_15;Selling price statistics grouped by hour
+hour_sellingprice_mean_16;Selling price statistics grouped by hour
+hour_sellingprice_mean_17;Selling price statistics grouped by hour
+hour_sellingprice_mean_18;Selling price statistics grouped by hour
+hour_sellingprice_mean_19;Selling price statistics grouped by hour
+hour_sellingprice_mean_20;Selling price statistics grouped by hour
+hour_sellingprice_mean_21;Selling price statistics grouped by hour
+hour_sellingprice_mean_22;Selling price statistics grouped by hour
+hour_sellingprice_mean_23;Selling price statistics grouped by hour
+hour_sellingprice_median_0;Selling price statistics grouped by hour
+hour_sellingprice_median_1;Selling price statistics grouped by hour
+hour_sellingprice_median_2;Selling price statistics grouped by hour
+hour_sellingprice_median_3;Selling price statistics grouped by hour
+hour_sellingprice_median_4;Selling price statistics grouped by hour
+hour_sellingprice_median_5;Selling price statistics grouped by hour
+hour_sellingprice_median_6;Selling price statistics grouped by hour
+hour_sellingprice_median_7;Selling price statistics grouped by hour
+hour_sellingprice_median_8;Selling price statistics grouped by hour
+hour_sellingprice_median_9;Selling price statistics grouped by hour
+hour_sellingprice_median_10;Selling price statistics grouped by hour
+hour_sellingprice_median_11;Selling price statistics grouped by hour
+hour_sellingprice_median_12;Selling price statistics grouped by hour
+hour_sellingprice_median_13;Selling price statistics grouped by hour
+hour_sellingprice_median_14;Selling price statistics grouped by hour
+hour_sellingprice_median_15;Selling price statistics grouped by hour
+hour_sellingprice_median_16;Selling price statistics grouped by hour
+hour_sellingprice_median_17;Selling price statistics grouped by hour
+hour_sellingprice_median_18;Selling price statistics grouped by hour
+hour_sellingprice_median_19;Selling price statistics grouped by hour
+hour_sellingprice_median_20;Selling price statistics grouped by hour
+hour_sellingprice_median_21;Selling price statistics grouped by hour
+hour_sellingprice_median_22;Selling price statistics grouped by hour
+hour_sellingprice_median_23;Selling price statistics grouped by hour
+hour_sellingprice_min_0;Selling price statistics grouped by hour
+hour_sellingprice_min_1;Selling price statistics grouped by hour
+hour_sellingprice_min_2;Selling price statistics grouped by hour
+hour_sellingprice_min_3;Selling price statistics grouped by hour
+hour_sellingprice_min_4;Selling price statistics grouped by hour
+hour_sellingprice_min_5;Selling price statistics grouped by hour
+hour_sellingprice_min_6;Selling price statistics grouped by hour
+hour_sellingprice_min_7;Selling price statistics grouped by hour
+hour_sellingprice_min_8;Selling price statistics grouped by hour
+hour_sellingprice_min_9;Selling price statistics grouped by hour
+hour_sellingprice_min_10;Selling price statistics grouped by hour
+hour_sellingprice_min_11;Selling price statistics grouped by hour
+hour_sellingprice_min_12;Selling price statistics grouped by hour
+hour_sellingprice_min_13;Selling price statistics grouped by hour
+hour_sellingprice_min_14;Selling price statistics grouped by hour
+hour_sellingprice_min_15;Selling price statistics grouped by hour
+hour_sellingprice_min_16;Selling price statistics grouped by hour
+hour_sellingprice_min_17;Selling price statistics grouped by hour
+hour_sellingprice_min_18;Selling price statistics grouped by hour
+hour_sellingprice_min_19;Selling price statistics grouped by hour
+hour_sellingprice_min_20;Selling price statistics grouped by hour
+hour_sellingprice_min_21;Selling price statistics grouped by hour
+hour_sellingprice_min_22;Selling price statistics grouped by hour
+hour_sellingprice_min_23;Selling price statistics grouped by hour
+hour_sellingprice_max_0;Selling price statistics grouped by hour
+hour_sellingprice_max_1;Selling price statistics grouped by hour
+hour_sellingprice_max_2;Selling price statistics grouped by hour
+hour_sellingprice_max_3;Selling price statistics grouped by hour
+hour_sellingprice_max_4;Selling price statistics grouped by hour
+hour_sellingprice_max_5;Selling price statistics grouped by hour
+hour_sellingprice_max_6;Selling price statistics grouped by hour
+hour_sellingprice_max_7;Selling price statistics grouped by hour
+hour_sellingprice_max_8;Selling price statistics grouped by hour
+hour_sellingprice_max_9;Selling price statistics grouped by hour
+hour_sellingprice_max_10;Selling price statistics grouped by hour
+hour_sellingprice_max_11;Selling price statistics grouped by hour
+hour_sellingprice_max_12;Selling price statistics grouped by hour
+hour_sellingprice_max_13;Selling price statistics grouped by hour
+hour_sellingprice_max_14;Selling price statistics grouped by hour
+hour_sellingprice_max_15;Selling price statistics grouped by hour
+hour_sellingprice_max_16;Selling price statistics grouped by hour
+hour_sellingprice_max_17;Selling price statistics grouped by hour
+hour_sellingprice_max_18;Selling price statistics grouped by hour
+hour_sellingprice_max_19;Selling price statistics grouped by hour
+hour_sellingprice_max_20;Selling price statistics grouped by hour
+hour_sellingprice_max_21;Selling price statistics grouped by hour
+hour_sellingprice_max_22;Selling price statistics grouped by hour
+hour_sellingprice_max_23;Selling price statistics grouped by hour
+hour4_sellingprice_count_1;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_count_2;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_count_3;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_count_4;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_count_5;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_count_6;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_sum_1;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_sum_2;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_sum_3;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_sum_4;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_sum_5;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_sum_6;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_mean_1;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_mean_2;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_mean_3;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_mean_4;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_mean_5;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_mean_6;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_median_1;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_median_2;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_median_3;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_median_4;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_median_5;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_median_6;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_min_1;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_min_2;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_min_3;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_min_4;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_min_5;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_min_6;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_max_1;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_max_2;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_max_3;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_max_4;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_max_5;Selling price statistics grouped by 4_hour_interval
+hour4_sellingprice_max_6;Selling price statistics grouped by 4_hour_interval
+hour8_sellingprice_count_1;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_count_2;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_count_3;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_sum_1;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_sum_2;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_sum_3;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_mean_1;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_mean_2;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_mean_3;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_median_1;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_median_2;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_median_3;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_min_1;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_min_2;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_min_3;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_max_1;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_max_2;Selling price statistics grouped by 8_hour_interval
+hour8_sellingprice_max_3;Selling price statistics grouped by 8_hour_interval
+all_operation_cnt;Operation count in whole timeline
+all_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in whole timeline
+all_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in whole timeline
+all_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in whole timeline
+all_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in whole timeline
+all_contentid_cnt;Count of distinct contentid values in whole timeline
+all_brand_id_cnt;Count of distinct brand_id values in whole timeline
+all_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in whole timeline
+all_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in whole timeline
+all_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in whole timeline
+all_day_name_cnt;Count of distinct day_name values in whole timeline
+all_hour_cnt;Count of distinct hour values in whole timeline
+all_4_hour_interval_cnt;Count of distinct 4-hour interval values in whole timeline
+all_8_hour_interval_cnt;Count of distinct 8-hour interval values in whole timeline
+all_secs_btw_first_last;Seconds in between first and last operation in whole timeline
+daily_operation_cnt;Operation count in whole timeline
+daily_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in daily basis (average)
+daily_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in daily basis (average)
+daily_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in daily basis (average)
+daily_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in daily basis (average)
+daily_contentid_cnt;Count of distinct contentid values in daily basis (average)
+daily_brand_id_cnt;Count of distinct brand_id values in daily basis (average)
+daily_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in daily basis (average)
+daily_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in daily basis (average)
+daily_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in daily basis (average)
+daily_hour_cnt;Count of distinct hour values in daily basis (average)
+daily_4_hour_interval_cnt;Count of distinct 4-hour interval values in daily basis (average)
+daily_8_hour_interval_cnt;Count of distinct 8-hour interval values in daily basis (average)
+daily_secs_btw_first_last;Seconds in between first and last operation in daily basis (average)
+weekly_operation_cnt;Operation count in weekly basis (average)
+weekly_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in weekly basis (average)
+weekly_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in weekly basis (average)
+weekly_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in weekly basis (average)
+weekly_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in weekly basis (average)
+weekly_contentid_cnt;Count of distinct contentid values in weekly basis (average)
+weekly_brand_id_cnt;Count of distinct brand_id values in weekly basis (average)
+weekly_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in weekly basis (average)
+weekly_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in weekly basis (average)
+weekly_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in weekly basis (average)
+weekly_day_name_cnt;Count of distinct day_name values in weekly basis (average)
+weekly_hour_cnt;Count of distinct hour values in weekly basis (average)
+weekly_4_hour_interval_cnt;Count of distinct 4-hour interval values in weekly basis (average)
+weekly_8_hour_interval_cnt;Count of distinct 8-hour interval values in weekly basis (average)
+weekly_secs_btw_first_last;Seconds in between first and last operation in weekly basis (average)
+hourly_operation_cnt;Operation count in hourly basis (average)
+hourly_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in hourly basis (average)
+hourly_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in hourly basis (average)
+hourly_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in hourly basis (average)
+hourly_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in hourly basis (average)
+hourly_contentid_cnt;Count of distinct contentid values in hourly basis (average)
+hourly_brand_id_cnt;Count of distinct brand_id values in hourly basis (average)
+hourly_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in hourly basis (average)
+hourly_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in hourly basis (average)
+hourly_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in hourly basis (average)
+hourly_secs_btw_first_last;Seconds in between first and last operation in hourly basis (average)
+all_order_operation_cnt;Operation count in whole timeline( user_action = order)
+all_order_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in whole timeline( user_action = order)
+all_order_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in whole timeline( user_action = order)
+all_order_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in whole timeline( user_action = order)
+all_order_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in whole timeline( user_action = order)
+all_order_contentid_cnt;Count of distinct contentid values in whole timeline( user_action = order)
+all_order_brand_id_cnt;Count of distinct brand_id values in whole timeline( user_action = order)
+all_order_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in whole timeline( user_action = order)
+all_order_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in whole timeline( user_action = order)
+all_order_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in whole timeline( user_action = order)
+all_order_day_name_cnt;Count of distinct day_name values in whole timeline( user_action = order)
+all_order_hour_cnt;Count of distinct hour values in whole timeline( user_action = order)
+all_order_4_hour_interval_cnt;Count of distinct 4-hour interval values in whole timeline( user_action = order)
+all_order_8_hour_interval_cnt;Count of distinct 8-hour interval values in whole timeline( user_action = order)
+all_order_secs_btw_first_last;Seconds in between first and last operation in whole timeline( user_action = order)
+daily_order_operation_cnt;Operation count in whole timeline( user_action = order)
+daily_order_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in daily basis (average)( user_action = order)
+daily_order_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in daily basis (average)( user_action = order)
+daily_order_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in daily basis (average)( user_action = order)
+daily_order_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in daily basis (average)( user_action = order)
+daily_order_contentid_cnt;Count of distinct contentid values in daily basis (average)( user_action = order)
+daily_order_brand_id_cnt;Count of distinct brand_id values in daily basis (average)( user_action = order)
+daily_order_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in daily basis (average)( user_action = order)
+daily_order_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in daily basis (average)( user_action = order)
+daily_order_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in daily basis (average)( user_action = order)
+daily_order_hour_cnt;Count of distinct hour values in daily basis (average)( user_action = order)
+daily_order_4_hour_interval_cnt;Count of distinct 4-hour interval values in daily basis (average)( user_action = order)
+daily_order_8_hour_interval_cnt;Count of distinct 8-hour interval values in daily basis (average)( user_action = order)
+daily_order_secs_btw_first_last;Seconds in between first and last operation in daily basis (average)( user_action = order)
+weekly_order_operation_cnt;Operation count in weekly basis (average)( user_action = order)
+weekly_order_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in weekly basis (average)( user_action = order)
+weekly_order_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in weekly basis (average)( user_action = order)
+weekly_order_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in weekly basis (average)( user_action = order)
+weekly_order_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in weekly basis (average)( user_action = order)
+weekly_order_contentid_cnt;Count of distinct contentid values in weekly basis (average)( user_action = order)
+weekly_order_brand_id_cnt;Count of distinct brand_id values in weekly basis (average)( user_action = order)
+weekly_order_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in weekly basis (average)( user_action = order)
+weekly_order_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in weekly basis (average)( user_action = order)
+weekly_order_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in weekly basis (average)( user_action = order)
+weekly_order_day_name_cnt;Count of distinct day_name values in weekly basis (average)( user_action = order)
+weekly_order_hour_cnt;Count of distinct hour values in weekly basis (average)( user_action = order)
+weekly_order_4_hour_interval_cnt;Count of distinct 4-hour interval values in weekly basis (average)( user_action = order)
+weekly_order_8_hour_interval_cnt;Count of distinct 8-hour interval values in weekly basis (average)( user_action = order)
+weekly_order_secs_btw_first_last;Seconds in between first and last operation in weekly basis (average)( user_action = order)
+hourly_order_operation_cnt;Operation count in hourly basis (average)( user_action = order)
+hourly_order_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in hourly basis (average)( user_action = order)
+hourly_order_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in hourly basis (average)( user_action = order)
+hourly_order_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in hourly basis (average)( user_action = order)
+hourly_order_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in hourly basis (average)( user_action = order)
+hourly_order_contentid_cnt;Count of distinct contentid values in hourly basis (average)( user_action = order)
+hourly_order_brand_id_cnt;Count of distinct brand_id values in hourly basis (average)( user_action = order)
+hourly_order_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in hourly basis (average)( user_action = order)
+hourly_order_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in hourly basis (average)( user_action = order)
+hourly_order_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in hourly basis (average)( user_action = order)
+hourly_order_secs_btw_first_last;Seconds in between first and last operation in hourly basis (average)( user_action = order)
+all_favorite_operation_cnt;Operation count in whole timeline( user_action = favorite)
+all_favorite_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in whole timeline( user_action = favorite)
+all_favorite_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in whole timeline( user_action = favorite)
+all_favorite_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in whole timeline( user_action = favorite)
+all_favorite_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in whole timeline( user_action = favorite)
+all_favorite_contentid_cnt;Count of distinct contentid values in whole timeline( user_action = favorite)
+all_favorite_brand_id_cnt;Count of distinct brand_id values in whole timeline( user_action = favorite)
+all_favorite_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in whole timeline( user_action = favorite)
+all_favorite_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in whole timeline( user_action = favorite)
+all_favorite_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in whole timeline( user_action = favorite)
+all_favorite_day_name_cnt;Count of distinct day_name values in whole timeline( user_action = favorite)
+all_favorite_hour_cnt;Count of distinct hour values in whole timeline( user_action = favorite)
+all_favorite_4_hour_interval_cnt;Count of distinct 4-hour interval values in whole timeline( user_action = favorite)
+all_favorite_8_hour_interval_cnt;Count of distinct 8-hour interval values in whole timeline( user_action = favorite)
+all_favorite_secs_btw_first_last;Seconds in between first and last operation in whole timeline( user_action = favorite)
+daily_favorite_operation_cnt;Operation count in whole timeline( user_action = favorite)
+daily_favorite_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in daily basis (average)( user_action = favorite)
+daily_favorite_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in daily basis (average)( user_action = favorite)
+daily_favorite_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in daily basis (average)( user_action = favorite)
+daily_favorite_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in daily basis (average)( user_action = favorite)
+daily_favorite_contentid_cnt;Count of distinct contentid values in daily basis (average)( user_action = favorite)
+daily_favorite_brand_id_cnt;Count of distinct brand_id values in daily basis (average)( user_action = favorite)
+daily_favorite_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in daily basis (average)( user_action = favorite)
+daily_favorite_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in daily basis (average)( user_action = favorite)
+daily_favorite_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in daily basis (average)( user_action = favorite)
+daily_favorite_hour_cnt;Count of distinct hour values in daily basis (average)( user_action = favorite)
+daily_favorite_4_hour_interval_cnt;Count of distinct 4-hour interval values in daily basis (average)( user_action = favorite)
+daily_favorite_8_hour_interval_cnt;Count of distinct 8-hour interval values in daily basis (average)( user_action = favorite)
+daily_favorite_secs_btw_first_last;Seconds in between first and last operation in daily basis (average)( user_action = favorite)
+weekly_favorite_operation_cnt;Operation count in weekly basis (average)( user_action = favorite)
+weekly_favorite_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in weekly basis (average)( user_action = favorite)
+weekly_favorite_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in weekly basis (average)( user_action = favorite)
+weekly_favorite_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in weekly basis (average)( user_action = favorite)
+weekly_favorite_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in weekly basis (average)( user_action = favorite)
+weekly_favorite_contentid_cnt;Count of distinct contentid values in weekly basis (average)( user_action = favorite)
+weekly_favorite_brand_id_cnt;Count of distinct brand_id values in weekly basis (average)( user_action = favorite)
+weekly_favorite_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in weekly basis (average)( user_action = favorite)
+weekly_favorite_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in weekly basis (average)( user_action = favorite)
+weekly_favorite_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in weekly basis (average)( user_action = favorite)
+weekly_favorite_day_name_cnt;Count of distinct day_name values in weekly basis (average)( user_action = favorite)
+weekly_favorite_hour_cnt;Count of distinct hour values in weekly basis (average)( user_action = favorite)
+weekly_favorite_4_hour_interval_cnt;Count of distinct 4-hour interval values in weekly basis (average)( user_action = favorite)
+weekly_favorite_8_hour_interval_cnt;Count of distinct 8-hour interval values in weekly basis (average)( user_action = favorite)
+weekly_favorite_secs_btw_first_last;Seconds in between first and last operation in weekly basis (average)( user_action = favorite)
+hourly_favorite_operation_cnt;Operation count in hourly basis (average)( user_action = favorite)
+hourly_favorite_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in hourly basis (average)( user_action = favorite)
+hourly_favorite_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in hourly basis (average)( user_action = favorite)
+hourly_favorite_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in hourly basis (average)( user_action = favorite)
+hourly_favorite_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in hourly basis (average)( user_action = favorite)
+hourly_favorite_contentid_cnt;Count of distinct contentid values in hourly basis (average)( user_action = favorite)
+hourly_favorite_brand_id_cnt;Count of distinct brand_id values in hourly basis (average)( user_action = favorite)
+hourly_favorite_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in hourly basis (average)( user_action = favorite)
+hourly_favorite_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in hourly basis (average)( user_action = favorite)
+hourly_favorite_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in hourly basis (average)( user_action = favorite)
+hourly_favorite_secs_btw_first_last;Seconds in between first and last operation in hourly basis (average)( user_action = favorite)
+all_basket_operation_cnt;Operation count in whole timeline( user_action = basket)
+all_basket_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in whole timeline( user_action = basket)
+all_basket_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in whole timeline( user_action = basket)
+all_basket_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in whole timeline( user_action = basket)
+all_basket_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in whole timeline( user_action = basket)
+all_basket_contentid_cnt;Count of distinct contentid values in whole timeline( user_action = basket)
+all_basket_brand_id_cnt;Count of distinct brand_id values in whole timeline( user_action = basket)
+all_basket_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in whole timeline( user_action = basket)
+all_basket_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in whole timeline( user_action = basket)
+all_basket_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in whole timeline( user_action = basket)
+all_basket_day_name_cnt;Count of distinct day_name values in whole timeline( user_action = basket)
+all_basket_hour_cnt;Count of distinct hour values in whole timeline( user_action = basket)
+all_basket_4_hour_interval_cnt;Count of distinct 4-hour interval values in whole timeline( user_action = basket)
+all_basket_8_hour_interval_cnt;Count of distinct 8-hour interval values in whole timeline( user_action = basket)
+all_basket_secs_btw_first_last;Seconds in between first and last operation in whole timeline( user_action = basket)
+daily_basket_operation_cnt;Operation count in whole timeline( user_action = basket)
+daily_basket_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in daily basis (average)( user_action = basket)
+daily_basket_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in daily basis (average)( user_action = basket)
+daily_basket_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in daily basis (average)( user_action = basket)
+daily_basket_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in daily basis (average)( user_action = basket)
+daily_basket_contentid_cnt;Count of distinct contentid values in daily basis (average)( user_action = basket)
+daily_basket_brand_id_cnt;Count of distinct brand_id values in daily basis (average)( user_action = basket)
+daily_basket_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in daily basis (average)( user_action = basket)
+daily_basket_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in daily basis (average)( user_action = basket)
+daily_basket_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in daily basis (average)( user_action = basket)
+daily_basket_hour_cnt;Count of distinct hour values in daily basis (average)( user_action = basket)
+daily_basket_4_hour_interval_cnt;Count of distinct 4-hour interval values in daily basis (average)( user_action = basket)
+daily_basket_8_hour_interval_cnt;Count of distinct 8-hour interval values in daily basis (average)( user_action = basket)
+daily_basket_secs_btw_first_last;Seconds in between first and last operation in daily basis (average)( user_action = basket)
+weekly_basket_operation_cnt;Operation count in weekly basis (average)( user_action = basket)
+weekly_basket_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in weekly basis (average)( user_action = basket)
+weekly_basket_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in weekly basis (average)( user_action = basket)
+weekly_basket_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in weekly basis (average)( user_action = basket)
+weekly_basket_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in weekly basis (average)( user_action = basket)
+weekly_basket_contentid_cnt;Count of distinct contentid values in weekly basis (average)( user_action = basket)
+weekly_basket_brand_id_cnt;Count of distinct brand_id values in weekly basis (average)( user_action = basket)
+weekly_basket_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in weekly basis (average)( user_action = basket)
+weekly_basket_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in weekly basis (average)( user_action = basket)
+weekly_basket_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in weekly basis (average)( user_action = basket)
+weekly_basket_day_name_cnt;Count of distinct day_name values in weekly basis (average)( user_action = basket)
+weekly_basket_hour_cnt;Count of distinct hour values in weekly basis (average)( user_action = basket)
+weekly_basket_4_hour_interval_cnt;Count of distinct 4-hour interval values in weekly basis (average)( user_action = basket)
+weekly_basket_8_hour_interval_cnt;Count of distinct 8-hour interval values in weekly basis (average)( user_action = basket)
+weekly_basket_secs_btw_first_last;Seconds in between first and last operation in weekly basis (average)( user_action = basket)
+hourly_basket_operation_cnt;Operation count in hourly basis (average)( user_action = basket)
+hourly_basket_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in hourly basis (average)( user_action = basket)
+hourly_basket_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in hourly basis (average)( user_action = basket)
+hourly_basket_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in hourly basis (average)( user_action = basket)
+hourly_basket_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in hourly basis (average)( user_action = basket)
+hourly_basket_contentid_cnt;Count of distinct contentid values in hourly basis (average)( user_action = basket)
+hourly_basket_brand_id_cnt;Count of distinct brand_id values in hourly basis (average)( user_action = basket)
+hourly_basket_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in hourly basis (average)( user_action = basket)
+hourly_basket_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in hourly basis (average)( user_action = basket)
+hourly_basket_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in hourly basis (average)( user_action = basket)
+hourly_basket_secs_btw_first_last;Seconds in between first and last operation in hourly basis (average)( user_action = basket)
+all_search_operation_cnt;Operation count in whole timeline( user_action = search)
+all_search_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in whole timeline( user_action = search)
+all_search_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in whole timeline( user_action = search)
+all_search_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in whole timeline( user_action = search)
+all_search_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in whole timeline( user_action = search)
+all_search_contentid_cnt;Count of distinct contentid values in whole timeline( user_action = search)
+all_search_brand_id_cnt;Count of distinct brand_id values in whole timeline( user_action = search)
+all_search_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in whole timeline( user_action = search)
+all_search_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in whole timeline( user_action = search)
+all_search_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in whole timeline( user_action = search)
+all_search_day_name_cnt;Count of distinct day_name values in whole timeline( user_action = search)
+all_search_hour_cnt;Count of distinct hour values in whole timeline( user_action = search)
+all_search_4_hour_interval_cnt;Count of distinct 4-hour interval values in whole timeline( user_action = search)
+all_search_8_hour_interval_cnt;Count of distinct 8-hour interval values in whole timeline( user_action = search)
+all_search_secs_btw_first_last;Seconds in between first and last operation in whole timeline( user_action = search)
+daily_search_operation_cnt;Operation count in whole timeline( user_action = search)
+daily_search_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in daily basis (average)( user_action = search)
+daily_search_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in daily basis (average)( user_action = search)
+daily_search_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in daily basis (average)( user_action = search)
+daily_search_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in daily basis (average)( user_action = search)
+daily_search_contentid_cnt;Count of distinct contentid values in daily basis (average)( user_action = search)
+daily_search_brand_id_cnt;Count of distinct brand_id values in daily basis (average)( user_action = search)
+daily_search_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in daily basis (average)( user_action = search)
+daily_search_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in daily basis (average)( user_action = search)
+daily_search_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in daily basis (average)( user_action = search)
+daily_search_hour_cnt;Count of distinct hour values in daily basis (average)( user_action = search)
+daily_search_4_hour_interval_cnt;Count of distinct 4-hour interval values in daily basis (average)( user_action = search)
+daily_search_8_hour_interval_cnt;Count of distinct 8-hour interval values in daily basis (average)( user_action = search)
+daily_search_secs_btw_first_last;Seconds in between first and last operation in daily basis (average)( user_action = search)
+weekly_search_operation_cnt;Operation count in weekly basis (average)( user_action = search)
+weekly_search_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in weekly basis (average)( user_action = search)
+weekly_search_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in weekly basis (average)( user_action = search)
+weekly_search_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in weekly basis (average)( user_action = search)
+weekly_search_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in weekly basis (average)( user_action = search)
+weekly_search_contentid_cnt;Count of distinct contentid values in weekly basis (average)( user_action = search)
+weekly_search_brand_id_cnt;Count of distinct brand_id values in weekly basis (average)( user_action = search)
+weekly_search_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in weekly basis (average)( user_action = search)
+weekly_search_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in weekly basis (average)( user_action = search)
+weekly_search_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in weekly basis (average)( user_action = search)
+weekly_search_day_name_cnt;Count of distinct day_name values in weekly basis (average)( user_action = search)
+weekly_search_hour_cnt;Count of distinct hour values in weekly basis (average)( user_action = search)
+weekly_search_4_hour_interval_cnt;Count of distinct 4-hour interval values in weekly basis (average)( user_action = search)
+weekly_search_8_hour_interval_cnt;Count of distinct 8-hour interval values in weekly basis (average)( user_action = search)
+weekly_search_secs_btw_first_last;Seconds in between first and last operation in weekly basis (average)( user_action = search)
+hourly_search_operation_cnt;Operation count in hourly basis (average)( user_action = search)
+hourly_search_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in hourly basis (average)( user_action = search)
+hourly_search_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in hourly basis (average)( user_action = search)
+hourly_search_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in hourly basis (average)( user_action = search)
+hourly_search_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in hourly basis (average)( user_action = search)
+hourly_search_contentid_cnt;Count of distinct contentid values in hourly basis (average)( user_action = search)
+hourly_search_brand_id_cnt;Count of distinct brand_id values in hourly basis (average)( user_action = search)
+hourly_search_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in hourly basis (average)( user_action = search)
+hourly_search_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in hourly basis (average)( user_action = search)
+hourly_search_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in hourly basis (average)( user_action = search)
+hourly_search_secs_btw_first_last;Seconds in between first and last operation in hourly basis (average)( user_action = search)
+all_visit_operation_cnt;Operation count in whole timeline( user_action = visit)
+all_visit_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in whole timeline( user_action = visit)
+all_visit_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in whole timeline( user_action = visit)
+all_visit_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in whole timeline( user_action = visit)
+all_visit_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in whole timeline( user_action = visit)
+all_visit_contentid_cnt;Count of distinct contentid values in whole timeline( user_action = visit)
+all_visit_brand_id_cnt;Count of distinct brand_id values in whole timeline( user_action = visit)
+all_visit_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in whole timeline( user_action = visit)
+all_visit_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in whole timeline( user_action = visit)
+all_visit_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in whole timeline( user_action = visit)
+all_visit_day_name_cnt;Count of distinct day_name values in whole timeline( user_action = visit)
+all_visit_hour_cnt;Count of distinct hour values in whole timeline( user_action = visit)
+all_visit_4_hour_interval_cnt;Count of distinct 4-hour interval values in whole timeline( user_action = visit)
+all_visit_8_hour_interval_cnt;Count of distinct 8-hour interval values in whole timeline( user_action = visit)
+all_visit_secs_btw_first_last;Seconds in between first and last operation in whole timeline( user_action = visit)
+daily_visit_operation_cnt;Operation count in whole timeline( user_action = visit)
+daily_visit_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in daily basis (average)( user_action = visit)
+daily_visit_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in daily basis (average)( user_action = visit)
+daily_visit_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in daily basis (average)( user_action = visit)
+daily_visit_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in daily basis (average)( user_action = visit)
+daily_visit_contentid_cnt;Count of distinct contentid values in daily basis (average)( user_action = visit)
+daily_visit_brand_id_cnt;Count of distinct brand_id values in daily basis (average)( user_action = visit)
+daily_visit_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in daily basis (average)( user_action = visit)
+daily_visit_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in daily basis (average)( user_action = visit)
+daily_visit_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in daily basis (average)( user_action = visit)
+daily_visit_hour_cnt;Count of distinct hour values in daily basis (average)( user_action = visit)
+daily_visit_4_hour_interval_cnt;Count of distinct 4-hour interval values in daily basis (average)( user_action = visit)
+daily_visit_8_hour_interval_cnt;Count of distinct 8-hour interval values in daily basis (average)( user_action = visit)
+daily_visit_secs_btw_first_last;Seconds in between first and last operation in daily basis (average)( user_action = visit)
+weekly_visit_operation_cnt;Operation count in weekly basis (average)( user_action = visit)
+weekly_visit_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in weekly basis (average)( user_action = visit)
+weekly_visit_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in weekly basis (average)( user_action = visit)
+weekly_visit_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in weekly basis (average)( user_action = visit)
+weekly_visit_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in weekly basis (average)( user_action = visit)
+weekly_visit_contentid_cnt;Count of distinct contentid values in weekly basis (average)( user_action = visit)
+weekly_visit_brand_id_cnt;Count of distinct brand_id values in weekly basis (average)( user_action = visit)
+weekly_visit_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in weekly basis (average)( user_action = visit)
+weekly_visit_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in weekly basis (average)( user_action = visit)
+weekly_visit_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in weekly basis (average)( user_action = visit)
+weekly_visit_day_name_cnt;Count of distinct day_name values in weekly basis (average)( user_action = visit)
+weekly_visit_hour_cnt;Count of distinct hour values in weekly basis (average)( user_action = visit)
+weekly_visit_4_hour_interval_cnt;Count of distinct 4-hour interval values in weekly basis (average)( user_action = visit)
+weekly_visit_8_hour_interval_cnt;Count of distinct 8-hour interval values in weekly basis (average)( user_action = visit)
+weekly_visit_secs_btw_first_last;Seconds in between first and last operation in weekly basis (average)( user_action = visit)
+hourly_visit_operation_cnt;Operation count in hourly basis (average)( user_action = visit)
+hourly_visit_secs_btw_consecutives_mean;Mean of seconds in between two consecutive operations in hourly basis (average)( user_action = visit)
+hourly_visit_secs_btw_consecutives_median;Median of seconds in between two consecutive operations in hourly basis (average)( user_action = visit)
+hourly_visit_secs_btw_consecutives_max;Max of seconds in between two consecutive operations in hourly basis (average)( user_action = visit)
+hourly_visit_secs_btw_consecutives_min;Min of seconds in between two consecutive operations in hourly basis (average)( user_action = visit)
+hourly_visit_contentid_cnt;Count of distinct contentid values in hourly basis (average)( user_action = visit)
+hourly_visit_brand_id_cnt;Count of distinct brand_id values in hourly basis (average)( user_action = visit)
+hourly_visit_Level1_Category_Id_cnt;Count of distinct Level1_Category_Id values in hourly basis (average)( user_action = visit)
+hourly_visit_Level2_Category_Id_cnt;Count of distinct Level2_Category_Id values in hourly basis (average)( user_action = visit)
+hourly_visit_Level3_Category_Id_cnt;Count of distinct Level3_Category_Id values in hourly basis (average)( user_action = visit)
+hourly_visit_secs_btw_first_last;Seconds in between first and last operation in hourly basis (average)( user_action = visit)
+operation_cnt_before_order_1hour;Average count of operations on a product done 1 hour before ordering it
+operation_cnt_before_order_3hour;Average count of operations on a product done 3 hour before ordering it
+operation_cnt_before_order_6hour;Average count of operations on a product done 6 hour before ordering it
+operation_cnt_before_order_12hour;Average count of operations on a product done 12 hour before ordering it
+operation_cnt_before_order_24hour;Average count of operations on a product done 24 hour before ordering it
+basket_cnt_before_order_1hour;Average count of basket operations on a product done 1 hour before ordering it
+basket_cnt_before_order_3hour;Average count of basket operations on a product done 3 hour before ordering it
+basket_cnt_before_order_6hour;Average count of basket operations on a product done 6 hour before ordering it
+basket_cnt_before_order_12hour;Average count of basket operations on a product done 12 hour before ordering it
+basket_cnt_before_order_24hour;Average count of basket operations on a product done 24 hour before ordering it
+search_cnt_before_order_1hour;Average count of search operations on a product done 1 hour before ordering it
+search_cnt_before_order_3hour;Average count of search operations on a product done 3 hour before ordering it
+search_cnt_before_order_6hour;Average count of search operations on a product done 6 hour before ordering it
+search_cnt_before_order_12hour;Average count of search operations on a product done 12 hour before ordering it
+search_cnt_before_order_24hour;Average count of search operations on a product done 24 hour before ordering it
+visit_cnt_before_order_1hour;Average count of visit operations on a product done 1 hour before ordering it
+visit_cnt_before_order_3hour;Average count of visit operations on a product done 3 hour before ordering it
+visit_cnt_before_order_6hour;Average count of visit operations on a product done 6 hour before ordering it
+visit_cnt_before_order_12hour;Average count of visit operations on a product done 12 hour before ordering it
+visit_cnt_before_order_24hour;Average count of visit operations on a product done 24 hour before ordering it
+favorite_cnt_before_order_1hour;Average count of favorite operations on a product done 1 hour before ordering it
+favorite_cnt_before_order_3hour;Average count of favorite operations on a product done 3 hour before ordering it
+favorite_cnt_before_order_6hour;Average count of favorite operations on a product done 6 hour before ordering it
+favorite_cnt_before_order_12hour;Average count of favorite operations on a product done 12 hour before ordering it
+favorite_cnt_before_order_24hour;Average count of favorite operations on a product done 24 hour before ordering it
+time_btw_basketand_order_mean;Average time between an order and previous basket operation
+time_btw_basketand_order_max;Average of max time between an order and previous basket operation
+time_btw_basketand_order_min;Average of min time between an order and previous basket operation
+time_btw_two_orders_mean;Average of time between two consecutive orders
+time_btw_two_orders_max;Average of max time between two consecutive orders
+time_btw_two_orders_min;Average of min time between two consecutive orders
+transaction_count;Total row count belonging to a customer
+experience_flag;"1 if total row count >= 120; 0 otherwise"
