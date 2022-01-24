@@ -26,4 +26,8 @@ There will be several homework assignments done for this course.
 * [Homework 4 Solutions - HTML](HW4/HW4_Cigdem_Renkli.html)
 * [Homework 4 Solutions - Jupyter Notebook](HW4/HW4_Cigdem_Renkli.ipynb)
 
+### Project
+* [Project Report](Project/Group 8 Project Report.pdf)
+* [Project Codes - Jupyter Notebook](Project/FinalSubmission.ipynb)
+
 
